@@ -1,23 +1,23 @@
 ### Hi there 👋
 
-##  `👦 Rafat Ashraf Joy` 
+##  `I am  Rafat Ashraf Joy` 
 
 
 
 ## ABOUT ME 👋 
 
-A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm an open-source development enthusiast.
+I am a Machine Learning Engineer + Back End Developer.
 
-Have also been involved in personal research on Machine Learning and Natural Language Processing.
+Currently, I am working on several machine learning research projects. My research interests include: Machine learning explainability, GANs, Time Series Analysis, Computer Vision and Geospatial Data Science.
 <!--
 I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js**, **Docker**.
 -->
 
 ---
-## KEY SKILLS :computer:
+## SKILLS :
 
 #### LANGUAGES
-<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Java" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg"/>|<img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>
+<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="R" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg"/>|<img alt="CPP" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Java" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg"/>|<img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>
 |--|--|--|--|--|--|
  
 <!--
