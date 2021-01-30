@@ -29,17 +29,16 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23222222)
 -->
 
-#### FRAMEWORKS
-<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg"/>|<img alt="React" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>
+#### ML/DL LIBRARIES
+<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikit-learn.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg"/>
+
+
+#### Back End Web FRAMEWORKS
+<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg"/>|<img alt="Flask" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg"/>
 |--|--|--|
 
-<!--
-![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
-![vue.js](https://img.shields.io/badge/-Vue.js-%23555555?style=flat-square&logo=vue.js&logoColor=%2341B883)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
--->
 
-#### DATABASE
+#### DATABASES
 <img alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"/>|<img alt="SQLite" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg"/>|<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"/>|<img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"/>|<img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg"/>
 |--|--|--|--|--|
  
@@ -54,64 +53,8 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 <img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"/>|<img alt="GNU Bash" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg"/>|<img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg"/>|<img alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>|<img alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/androidstudio.svg"/>|<img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg"/>|<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>
 |--|--|--|--|--|--|--|--|--|--|
 
-<!--
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-%234EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)
-![Jupyter](http://img.shields.io/badge/-Jupyter-%23585959?style=flat-square&logo=Jupyter)
-![JetBrains](http://img.shields.io/badge/-JetBrains-%23000000?style=flat-square&logo=JetBrains)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=Android-Studio&logoColor=222222)
-![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
--->
 
-<!--
-<p>
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=blue&label=python&logo=python&style=for-the-badge">
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=django&logo=django&style=for-the-badge">
-  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=yellow&label=javascript&logo=javascript&style=for-the-badge">
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=html&logo=html5&style=for-the-badge">
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23BE1C38&label=css&logo=css3&style=for-the-badge">
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%237952B3&label=bootstrap&logo=bootstrap&style=for-the-badge">  
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23316192&label=postgresql&logo=postgresql&style=for-the-badge">
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23E37A08&label=mysql&logo=mysql&style=for-the-badge"> 
-  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23044A60&label=sqlite&logo=sqlite&logoColor=%234CA5DC&style=for-the-badge">
-  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23F37726&label=jupyter&logo=jupyter&style=for-the-badge">
-  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=yellow&label=firebase&logo=firebase&style=for-the-badge">
-  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23A9C3DD&label=c&logo=c&style=for-the-badge">
-  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23F8981D&label=java&logo=java&logoColor=%23F8981D&style=for-the-badge">
-  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2341B883&label=Vue.js&logo=vue.js&style=for-the-badge">
-  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2378CFF5&label=jQuery&logo=jQuery&logoColor=%2378CFF5&style=for-the-badge">
-</p>
--->
 
-<!--
-## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
--->
-
----
-## Interesting Stats
-<!--
-![Omar's stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true)
-[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=dracula&show_icons=true)](https://github.com/IamOmar22)
-[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true)](https://github.com/IamOmar22)
--->
-
-<img align="left" alt="Md. Omar Faruk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true" />
 
 #### CONNECT WITH ME 👁‍🗨
 </br>
