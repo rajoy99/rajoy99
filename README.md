@@ -50,9 +50,9 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 
 
-#### CONNECT WITH ME 👁‍🗨
+#### CONNECT WITH ME:
 </br>
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/rajoy99" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="RA Joy's LinkedIn Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;  
 </p> 
 
