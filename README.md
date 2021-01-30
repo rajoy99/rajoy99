@@ -53,26 +53,8 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 #### CONNECT WITH ME 👁‍🗨
 </br>
 <p align="center">
-<a href="https://www.linkedin.com/in/iamomar22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Omar Faruk's LinkedIn Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://dev.to/iamomar22" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Omar Faruk's DEV Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/14398143/md-omar-faruk" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Md. Omar Faruk's Stackoverflow Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/IamOmaR222" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Md. Omar Faruk's Twitter Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/IamOmaR22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Md. Omar Faruk's Facebook Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/iamomar_22/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Md. Omar Faruk's Instagram Profile" height="30" width="30"></a> 
+<a href="https://www.linkedin.com/in/rajoy99" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="RA Joy's LinkedIn Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp;  
 </p> 
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true" />
-</p> 
--->
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamOmar22&theme=tokyonight)](https://github.com/IamOmar22)
--->
-
-<!--
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true&theme=dracula" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamOmar22">
-</p> 
--->
-
 
 
 
