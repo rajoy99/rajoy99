@@ -31,6 +31,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 #### ML/DL LIBRARIES
 <img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikit-learn.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg"/>
+|--|--|--|--|
 
 
 #### Back End Web FRAMEWORKS
