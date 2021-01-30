@@ -41,7 +41,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 #### DATABASES
 <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"/>|<img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg"/>
- 
+|--|--|
 
 #### TOOLS
 <img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"/>|<img alt="GNU Bash" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg"/>|<img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg"/>|<img alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>|<img alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/androidstudio.svg"/>|<img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg"/>|<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>
