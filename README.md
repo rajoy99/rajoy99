@@ -28,7 +28,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 -->
 
 #### ML/DL LIBRARIES
-<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>|<img alt="Django" width="30px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg"/>
+<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>|<img alt="Django" width="30px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
 |--|--|--|--|--|--|
 
 
