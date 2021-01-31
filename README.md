@@ -2,7 +2,7 @@
 
 ##  `I am  Rafat Ashraf Joy` 
 
-
+<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
 
 ## ABOUT ME :
 
