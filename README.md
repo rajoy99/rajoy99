@@ -2,8 +2,6 @@
 
 ##  `I am  Rafat Ashraf Joy` 
 
-<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
-
 ## ABOUT ME :
 
 ## `I am a Machine Learning Engineer + Back End Developer.`
@@ -30,7 +28,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 -->
 
 #### ML/DL LIBRARIES
-<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikit-learn.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg"/>
+<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikit-learn.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>|<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg"/>
 |--|--|--|--|
 
 
