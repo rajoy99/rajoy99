@@ -1,11 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ##  `I am  Rafat Ashraf Joy` 
+<img  alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" width="500" height="600"/>
 
 ## ABOUT ME :
 
 ## `I am a Machine Learning Engineer + Back End Developer.`
-<img  alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" />
+
 
 Currently, I am working on several machine learning research projects. My research interests include: Machine learning explainability, GANs, Time Series Analysis, Computer Vision and Geospatial Data Science.
 <!--
