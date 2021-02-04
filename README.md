@@ -17,7 +17,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 ## SKILLS :
 
 #### LANGUAGES
-<img alt="Python" width="50px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg"/>|<img alt="R" width="30px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg"/>|<img alt="CPP" width="30px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_128x128.png"/>|<img alt="Java" width="30px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg"/>|<img alt="scala" width="30px" src="https://github.com/kaeawc/scala-logo/blob/master/img/logo.svg"/>|<img alt="CSharp" width="30px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg"/>
+<img alt="Python" width="50px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg"/>|<img alt="R" width="30px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg"/>|<img alt="CPP" width="30px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_128x128.png"/>|<img alt="Java" width="30px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg"/>|<img alt="scala" width="30px" src="https://github.com/kaeawc/scala-logo/blob/master/img/logo.svg"/>|<img alt="CSharp" width="50px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.svg"/>
 |--|--|--|--|--|--|
  
 <!--
@@ -40,7 +40,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 
 #### DATABASES
-<img alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>|<img alt="Firebase" width="30px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png"/>
+<img alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>|<img alt="Firebase" width="30px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png"/>
 |--|--|
 
 #### TOOLS
