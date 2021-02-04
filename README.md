@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-##  `I am  Rafat Ashraf Joy` 
-<img  alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" width="500" height="600"/>
+I am  Rafat Ashraf Joy
+<img  align='right' alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" width="700" height="500"/>
 
 ## ABOUT ME :
 
