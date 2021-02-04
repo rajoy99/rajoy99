@@ -5,7 +5,7 @@
 ## ABOUT ME :
 
 ## `I am a Machine Learning Engineer + Back End Developer.`
-<img align="right" alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" />
+<img  alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" />
 
 Currently, I am working on several machine learning research projects. My research interests include: Machine learning explainability, GANs, Time Series Analysis, Computer Vision and Geospatial Data Science.
 <!--
