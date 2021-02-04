@@ -38,7 +38,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 
 #### DATABASES
-<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"/>|<img alt="Firebase" width="30px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png"/>
+<img alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>|<img alt="Firebase" width="30px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png"/>
 |--|--|
 
 #### TOOLS
