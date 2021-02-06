@@ -30,7 +30,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 -->
 
 #### ML/DL LIBRARIES
-<img alt="Django" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>|<img alt="Django" width="30px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"/>|<img alt="Django" width="50px" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
+<img alt="Sklearn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>|<img alt="Django" width="30px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"/>|<img alt="Django" width="50px" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
 |--|--|--|--|--|--|
 
 
@@ -40,12 +40,12 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 
 #### DATABASES
-<img alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>|<img alt="Firebase" width="30px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png"/>
+<img alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>|<img alt="Firebase" width="50px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png"/>
 |--|--|
 
 #### TOOLS
-<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"/>|<img alt="GNU Bash" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg"/>|<img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>|<img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg"/>|<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>
-|--|--|--|--|--|--|--|--|
+<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"/>|<img alt="GNU Bash" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg"/>|<img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg"/>|<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>
+|--|--|--|--|--|--|--|
 
 
 
