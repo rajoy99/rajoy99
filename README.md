@@ -1,10 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- ```html
+<img src="https://github.com/rajoy99/rajoy99/blob/main/name.svg">
 
-  <h2 style='color:red'>I am Rafat Ashraf Joy </h2>
-
-```
 <img  align='right' alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" width="500" height="300"/>
 
 ## ABOUT ME :
