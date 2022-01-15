@@ -6,7 +6,7 @@
 
 ## ABOUT ME :
 
-## `I am a Machine Learning Engineer + Back End Developer.`
+## `I am a Software Engineer`
 
 
 Currently, I am working on several machine learning research projects. My research interests include: Machine learning explainability, GANs, Time Series Analysis, Computer Vision and Geospatial Data Science.
