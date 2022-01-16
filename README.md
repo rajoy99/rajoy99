@@ -6,7 +6,7 @@
 
 ## ABOUT ME :
 
-## `I am a Software Engineer`
+## `I am a Computer Science Graduate and Software Engineer`
 
 
 Currently, I am working on several machine learning research projects. My research interests include: Machine learning explainability, GANs, Time Series Analysis, Computer Vision and Geospatial Data Science.
