@@ -40,7 +40,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 |--|--|--|--|
 
 #### Front End Web FRAMEWORKS
-<img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+<img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>| 
 |--|     
 
 #### DATABASES
