@@ -41,6 +41,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 #### Front End Web FRAMEWORKS
 <img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+|--|     
 
 #### DATABASES
 <img alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>|<img alt="Firebase" width="50px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png"/>
