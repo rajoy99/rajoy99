@@ -36,7 +36,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 
 
 #### Back End Web FRAMEWORKS
-<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg"/>|<img alt="Flask" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg"/>|<img alt="Nodejs" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
+<img alt="Django" width="30px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/>|<img alt="Flask" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg"/>|<img alt="Nodejs" width="30px" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/node-js-logo.svg"/>
 |--|--|--|
 
 
