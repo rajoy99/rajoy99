@@ -8,11 +8,8 @@
 
 ## `I am a Computer Science Graduate and Software Engineer`
 
+As a software engineer, I am a generalist. I do not have preference for a particular stack. 
 
-Currently, I am working on several machine learning research projects. My research interests include: Machine learning explainability, GANs, Time Series Analysis, Computer Vision and Geospatial Data Science.
-<!--
-I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js**, **Docker**.
--->
 
 ---
 ## SKILLS :
