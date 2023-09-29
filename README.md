@@ -6,9 +6,9 @@
 
 ## ABOUT ME :
 
-## `I am a Computer Science Graduate and Software Engineer`
+## `I am a Computer Science PhD Student`
 
-As a software engineer, I am a generalist. I do not have preference for a particular stack. 
+Before joining PhD program, I worked as a software engineer for 4 months. As a software engineer, I am a generalist. I do not have preference for a particular stack. 
 
 
 ---
