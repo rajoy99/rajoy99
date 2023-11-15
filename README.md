@@ -15,8 +15,8 @@ Before joining PhD program, I worked as a software engineer for 4 months. As a s
 ## SKILLS :
 
 #### LANGUAGES
-<img alt="Python" width="45px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg"/>|<img alt="JS" width="50px" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67"/>|
-|--|--|
+<img alt="Python" width="45px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg"/>|<img alt="JS" width="50px" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67"/>|<img alt="Ruby" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"/>|
+|--|--|--|
  
 <!--
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
@@ -33,7 +33,7 @@ Before joining PhD program, I worked as a software engineer for 4 months. As a s
 
 
 #### Back End Web FRAMEWORKS
-<img alt="Django" width="40px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/>|<img alt="Flask" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg"/>|<img alt="Nodejs" width="40px" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/node-js-logo.svg"/>|<img alt="Express" width="40px" src="https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/express/express-logo-horizontal-black.svg"/>
+<img alt="Rails" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg"/>|<img alt="Flask" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg"/>|<img alt="Nodejs" width="40px" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/node-js-logo.svg"/>|<img alt="Express" width="40px" src="https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/express/express-logo-horizontal-black.svg"/>
 |--|--|--|--|
 
 #### Front End Web FRAMEWORKS
