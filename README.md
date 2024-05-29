@@ -6,7 +6,10 @@
 
 ## ABOUT ME :
 
-## `I am a Computer Science PhD Student`
+## `I am a Computer Science PhD Student` 
+
+My research topics are : 
+## `Inverse Problems, Physics Informed Neural Networks, Diffusion and Score Based Generative Models`
 
 Before joining PhD program, I worked as a software engineer for 4 months. As a software engineer, I am a generalist. I do not have preference for a particular stack. 
 
