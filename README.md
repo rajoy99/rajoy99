@@ -8,24 +8,16 @@
 
 ## `I am a Computer Science PhD Student` 
 
-Before joining PhD program, I worked as a software engineer for 4 months. As a software engineer, I am a generalist. I do not have preference for a particular stack. 
+My research interests are : Causal Discovery, Deep Generative Models and Scietific ML. 
 
 
 ---
 ## SKILLS :
 
 #### LANGUAGES
-<img alt="Python" width="45px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg"/>|<img alt="JS" width="50px" src="https://camo.githubusercontent.com/651195b8c66a9dd22316e672992077dbcecea4ca904b45a6681558ebc0ecc517/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67"/>|<img alt="Ruby" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"/>|
-|--|--|--|
+<img alt="Python" width="45px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg"/>|<img alt="CPP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>|<img alt="Ruby" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"/>|<img alt="Java" width="45px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>|
+|--|--|--|--|
  
-<!--
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java)
-![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23222222)
--->
 
 #### ML/DL LIBRARIES
 <img alt="Sklearn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>|<img alt="Django" width="30px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"/>|<img alt="Django" width="50px" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"/>|<img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
@@ -58,25 +50,3 @@ Before joining PhD program, I worked as a software engineer for 4 months. As a s
 </p> 
 
 
-
-
-
-
-
-
-
-
-<!--
-**rajoy99/rajoy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
