@@ -2,7 +2,7 @@
 
 ## `I am Rafat Ashraf Joy`
 
-
+<img  align='right' alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/9/96/University_of_Illinois_at_Chicago_circle_logo.svg" width="200" height="200"/>
 
 ## ABOUT ME :
 
