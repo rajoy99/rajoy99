@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <img  align='right' alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/9/96/University_of_Illinois_at_Chicago_circle_logo.svg" width="80" height="80"/>
+
 ## `I am Rafat Ashraf Joy`
 
 
