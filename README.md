@@ -2,12 +2,12 @@
 
 ## `I am Rafat Ashraf Joy`
 
-<img  align='right' alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/9/96/University_of_Illinois_at_Chicago_circle_logo.svg" width="200" height="200"/>
+
 
 ## ABOUT ME :
 
 ## `I am a 2nd year Computer Science PhD Student at UIC` 
-
+<img  align='right' alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/9/96/University_of_Illinois_at_Chicago_circle_logo.svg" width="200" height="200"/>
 My research interests are : Causal Discovery, Deep Generative Models and Scietific ML. 
 
 
