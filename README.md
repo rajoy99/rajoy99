@@ -2,11 +2,11 @@
 
 ## `I am Rafat Ashraf Joy`
 
-<img  align='right' alt="GIF" src="https://github.com/rajoy99/rajoy99/blob/main/ambidextrous.gif" width="500" height="300"/>
+
 
 ## ABOUT ME :
 
-## `I am a Computer Science PhD Student` 
+## `I am a 2nd year Computer Science PhD Student at UIC` 
 
 My research interests are : Causal Discovery, Deep Generative Models and Scietific ML. 
 
