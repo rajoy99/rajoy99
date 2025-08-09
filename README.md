@@ -8,9 +8,9 @@ I am Rafat Ashraf Joy
 
 ## ABOUT ME :
 
-## `I am a 2nd year Computer Science PhD Student at UIC` 
+## `I am a 3rd year Computer Science PhD Student at UIC` 
 
-My research interests are : Causal Discovery, Deep Generative Models and Scietific ML. 
+My research interests are : Deep Generative Models, Computer Vision and Biomedical Applications of Machine Learning. 
 
 
 ---
